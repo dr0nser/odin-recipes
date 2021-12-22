@@ -3,7 +3,7 @@
 
 This is an introductory project for HTML and CSS by [The Odin Project](https://www.theodinproject.com/).
 
-Assignment: Build a basic recipe website using to put your HTML and CSS knowlege into practice.
+Assignment: Build a basic recipe website using to put your HTML and CSS knowlege into practice.<br>
 Visit: https://whyucode.github.io/odin-recipes/
 ### Tech Stack
 
